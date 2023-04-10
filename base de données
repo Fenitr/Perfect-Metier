@@ -1,0 +1,9 @@
+- Créer une base de donnée dont le nom est: pefect_metier
+- Créer une table: name: user
+- Nombre de colonnes 3:
+  * id::::: type: INT --- Taille/Valeurs: 11 --- Index: Primary --- AI :activé
+  * nom::::: type: VARCHAR --- Taille/Valeur: 20
+  * mot_de_passe::::: type: VARCHAR --- Taille/Valeur: 20
+  
+  
+  SURTOUT NE CHANGE PAS LES SYNTAXES SINON LE BACKEND SERA FICHU
