@@ -1,0 +1,69 @@
+header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    box-shadow: 0 10px 30px #00000023;
+    background-color: white;
+}
+
+nav 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px 0 40px;
+    height: 90px;
+}
+nav ul
+{
+    padding: 0;
+
+}
+nav img
+{
+    width: 60px;
+    margin: 0 150px 0 0;
+}
+nav li
+{
+    display: inline-block;
+}
+
+nav a
+{
+    text-decoration: none;
+    margin: 0 20px 0 20px;
+    font-family: 'gotham-book';
+    font-size: 20px;
+    color: black;
+    transition: color 0.21s ease;
+}
+nav a:hover
+{
+    color: #FD9E02;
+}
+nav button
+{
+    border-radius: 50px;
+    height: 45px;
+    width: 192px;
+    border-style: solid ;
+    border-width: 1px;
+    font-family: 'gotham-book';
+    color: #ABABAB;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    border-color: #023047;
+    transition: all 0.2s ease-in-out;
+}
+
+nav button:hover
+{
+    background-color: #FD9E02;
+    color: white;
+    font-size: 18px;
+    border: 0;
+}

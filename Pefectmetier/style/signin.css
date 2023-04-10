@@ -1,0 +1,62 @@
+.container-formulaire{
+    margin-left: 37%;
+    margin-right: 34%;
+    margin-top: 1%;
+    border:none;
+    box-shadow: 12px 12px 80px rgba(0, 0, 0, 0.144);
+    padding-top:2% ;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, .3);
+    
+}
+.container-title{
+    font-weight:900;
+    letter-spacing: 0.2;
+    color: #023047;
+    text-transform: uppercase;
+    font-family: 'gotham-book';
+    font-size: 25px;
+    border-bottom: solid;
+    border-color:  #FD9E02;
+    width: 167px;
+}
+#input{
+    border: none;
+    width: 85%;
+    height: 20px;
+    margin-left: 5px;
+    padding-bottom: 1px;
+    font-family: 'gotham-light';
+    outline: none;
+    height: 40px;    font-size: 15px;
+    background:transparent;
+}
+.container-input{
+    border-bottom: solid;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    border-color: rgba(0, 0, 0, 0.144);
+}
+.submit{
+    margin-left: 34%;
+    margin-right: 34%;
+    font-size:15px;
+    border-radius: 25px;
+    padding: 5%;
+    background-color: #FD9E02;
+    border: none;
+    width: 35%;
+    color: white;
+    font-family: 'gotham-book';
+}
+.intro{
+    font-family: 'gotham-medium';
+}
+img{
+    width:20px;
+    height: 20px; 
+}

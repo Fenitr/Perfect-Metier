@@ -1,0 +1,37 @@
+@font-face
+{
+    font-family: 'gotham-black';
+    src: url(../font/gotham-black.otf) format(opentype);
+}
+
+@font-face
+{
+    font-family: 'gotham-bold';
+    src: url(../font/gotham-bold.otf) format(opentype);
+}
+@font-face
+{
+    font-family: 'gotham-medium';
+    src: url(../font/gotham-medium.otf) format(opentype);
+}
+@font-face
+{
+    font-family: 'gotham-book';
+    src: url('../font/gotham-book.otf') format(opentype);    
+}
+@font-face
+{
+    font-family: 'gotham-lite';
+    src: url('../font/gotham-lite.otf') format(opentype);
+}
+@font-face
+{
+    font-family: 'recoleta-regular';
+    src: url(../font/recoleta-regular.otf) format(opentype);
+}
+@font-face
+{
+    font-family: 'unisans-heavy';
+    src: url(../font/unisans-heavy.otf) format(opentype);
+}
+

@@ -1,0 +1,108 @@
+.contain_all 
+{
+    margin-top: 95px;
+}
+.en_tête 
+{
+    text-align: center;
+    padding: 20px 0 0 0;
+    margin: 0;
+}
+h1
+{
+    font-family: 'unisans-heavy';
+    color: #023047;
+    font-size: 55px;
+    margin: 30px 0 0 0;
+    text-decoration: underline #FD9E02;
+    
+}
+.instruction_box 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    margin: 0;
+    gap: 40px;
+
+}
+.container-body
+{
+    width: 100%;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgreen;
+    height: 500px;
+}
+img
+{
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.box
+{
+    height: 150px;
+    width: 201px;
+    background-color: #EFEFEF;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 20px 40px 20px;
+    box-shadow: 0px 8px 10px rgba(124, 124, 124, 0.068);
+  
+}
+.box p
+{
+    font-family: 'gotham-book';
+    color: #023047;
+    font-size: 20px; 
+    margin-top: 0px;
+    
+}
+
+
+
+
+.question-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'gotham-medium';
+    font-size: 30px;
+    margin: 30px;
+    
+} 
+.numero
+{
+    font-family: 'gotham-bold';
+    color: #126782;
+    margin-top: 20px;
+}   
+
+.question
+{
+    height: 285px;
+    background-color: #ebebeb2d;
+    border-radius: 20px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 40px;
+    box-shadow: 0px 8px 0px rgba(230, 230, 230, 0.562);
+}
+
+
+.page-suivant
+{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    font-family: 'gotham-medium';
+}
